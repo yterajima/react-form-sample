@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/yterajima/react-form-sample/issues"
   },
-  "homepage": "https://github.com/yterajima/react-form-sample#readme",
+  "homepage": "./",
   "devDependencies": {
     "react-scripts": "^1.1.4"
   },
