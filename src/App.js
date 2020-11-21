@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Text } from './Text';
-import { Submit } from './Submit';
+import { Text } from './components/Text';
+import { Submit } from './components/Submit';
 
 export default class App extends React.Component {
   constructor(props) {
